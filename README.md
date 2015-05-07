@@ -11,3 +11,9 @@ fix bugs
 # function1();
 
 > fix bugs
+
+# function2();
+
+> fix bugs
+
+# function3();
